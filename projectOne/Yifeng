@@ -1,4 +1,9 @@
 #1:  New e-Commerce site
-integration and configuration model: since we’re going to use the resources and inner model we already have, and it’s only required to 
+(integration and configuration model): since we’re going to use the resources and inner model we already have, and it’s only required to 
 make change a little bit, that is fit with integration and configuration model
+
+
+#2： Dental office site
+(Incremental development model): as dentist said, this website needs uopdate frequent, this means we need often update or software, the best
+part of Incremental development model is easy handling the demand changes, and keep update.
 
