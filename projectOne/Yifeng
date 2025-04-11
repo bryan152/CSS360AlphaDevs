@@ -7,3 +7,8 @@ make change a little bit, that is fit with integration and configuration model
 (Incremental development model): as dentist said, this website needs uopdate frequent, this means we need often update or software, the best
 part of Incremental development model is easy handling the demand changes, and keep update.
 
+
+#3: Nuclear Power Plant
+We need to develop stable and robust software. If the development takes longer, it indicates fewer necessary updates in the future and 
+greater long-term stability. Therefore, the Waterfall model aligns best with our goals
+
