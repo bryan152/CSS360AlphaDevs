@@ -30,12 +30,16 @@ As the software is expected to last for 10 years and has high stakes to perform 
 to be developed in clearly defined phases with clear specifications and requirements fulfilled before moving onto the next phase. 
 
 ## #4: Department of Transportation
+Your company won the contract to develop a distributed application which stores data on the Cloud.  This is in response to a thorough 100 page specifications from the Department of Transportation. The specifications is very detailed in what’s expected from the application. 
 
+ Your company has developed similar solutions in the transportation domain on numerous previous occasions, and you have the appropriate experienced staff for the project. You bid on the project to be completed within 18 months based on a team of 10 software engineers.
 
 ## #5: Reducing Traffic
 
 
 ## #6: Educational game
-
+The extreme programming model would be the most appropriate for this project as the developers would need to work closely with the customer and the requirements change quickly with new sets of requirements added. As extreme programming does not have formal specification, this would work well with the project. Also the 
+games would need to be developed quickly so testing would need to be done at the same time as writing the code, to optimize the process and have games 
+out quickly.
 
 ## #7: Global Health
