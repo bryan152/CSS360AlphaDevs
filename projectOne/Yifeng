@@ -9,12 +9,28 @@ part of Incremental development model is easy handling the demand changes, and k
 
 
 #3: Nuclear Power Plant
-（Waterfall model）：We need to develop stable and robust software. If the development takes longer, it indicates fewer necessary updates in the future and 
-greater long-term stability. Therefore, the Waterfall model aligns best with our goals
+（Waterfall model）：We need to develop stable and robust software. If the development takes longer, it indicates fewer necessary updates in the 
+future and greater long-term stability. Therefore, the Waterfall model aligns best with our goals
 
 
 #4: Department of Transportation
-（Intergration and configuration）：We have a substantial team, and the company has extensive experience developing similar solutions in the transportation sector. Therefore, 
-we can effectively leverage existing resources to complete the project.
+（Intergration and configuration）：We have a substantial team, and the company has extensive experience developing similar solutions in the 
+transportation sector. Therefore, we can effectively leverage existing resources to complete the project.
 
 
+#5: Reducing Traffic
+(incremental development model): this software will be able to provide real-time traffic updates on digital billboards along the roads, so that 
+mean is should be update in every mins or secs, it’s fit with the characteristic of incremental development model
+
+
+#6: Educational game
+(Agile Model): Agile emphasizes short development cycles—such as one Sprint every two weeks—and rapid delivery of functional components. It's 
+well-suited for scenarios where early online testing is essential. Agile also allows flexible adjustments to the development plan as customer 
+requirements evolve. This model enables my small team to adapt quickly, respond to user needs efficiently, and effectively integrate market 
+and user feedback into the development process.
+
+
+#7: Global Health
+(Spiral Model）： Due to the project's high risk and uncertainty, along with the need for gradual investment, the Spiral model is a suitable choice. 
+It allows us to define goals and requirements iteratively, making it ideal for innovative projects with limited initial resources and significant 
+uncertainties and risks.
