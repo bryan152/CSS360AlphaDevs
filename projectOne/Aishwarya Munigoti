@@ -20,10 +20,14 @@ waterfall model within it. This project is also in the category of projects that
 expected often and products that are usable consistently. 
 
 ## #2: Dental office site
+Your good friend, a dentist, asks you to develop a web site for their new clinic. The web site should include common information about the clinic like hours, location, dental staff, and downloadable forms.  At some point in the future, they would like to include an ability to make online appointments, send automated reminders via text messages, and issue discounts. Your friend is flexible with the time when you will deliver software.  They also wish to continually add capabilities to the website in order to draw more patients to their clinic.
 
+The spiral model would be the most appropriate for this project 
 
 ## #3: Nuclear Power Plant
-
+The waterfall model would be the most appropriate for this project as this project would be classified as a critical product, and there is a final end product. 
+As the software is expected to last for 10 years and has high stakes to perform its job properly, it would be considered a critical system, and would thus need
+to be developed in clearly defined phases with clear specifications and requirements fulfilled before moving onto the next phase. 
 
 ## #4: Department of Transportation
 
