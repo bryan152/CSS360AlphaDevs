@@ -8,9 +8,7 @@
 * Table(s)
 * List(s)
 
-# If confused, look at: [Markdown Live Preview](https://markdownlivepreview.com/).
-
-# Aishwarya Munigoti
+## Aishwarya Munigoti
 
 ![Alt Text](https://datarob.com/content/images/2019/08/SDLC-stages.png)
 
@@ -21,9 +19,7 @@ waterfall model within it. This project is also in the category of projects that
 expected often and products that are usable consistently. 
 
 ### #2: Dental office site
-Your good friend, a dentist, asks you to develop a web site for their new clinic. The web site should include common information about the clinic like hours, location, dental staff, and downloadable forms.  At some point in the future, they would like to include an ability to make online appointments, send automated reminders via text messages, and issue discounts. Your friend is flexible with the time when you will deliver software.  They also wish to continually add capabilities to the website in order to draw more patients to their clinic.
-
-The spiral model would be the most appropriate for this project 
+The incremental model would be the most appropriate for this project due to the high possibility of new features being added to the product and a prototype with lower functionality being able to be delivered. With each proposal of new features, the stages of development would be repeated for each phase, the result being a version of the product being available after each phase. The dentist friend is also flexible with the time we will deliver the software, which allows us to have as many phases as we need to complete all the features for the product. 
 
 ### #3: Nuclear Power Plant
 The waterfall model would be the most appropriate for this project as this project would be classified as a critical product, and there is a final end product. 
@@ -31,9 +27,7 @@ As the software is expected to last for 10 years and has high stakes to perform 
 to be developed in clearly defined phases with clear specifications and requirements fulfilled before moving onto the next phase. 
 
 ### #4: Department of Transportation
-Your company won the contract to develop a distributed application which stores data on the Cloud.  This is in response to a thorough 100 page specifications from the Department of Transportation. The specifications is very detailed in what’s expected from the application. 
-
- Your company has developed similar solutions in the transportation domain on numerous previous occasions, and you have the appropriate experienced staff for the project. You bid on the project to be completed within 18 months based on a team of 10 software engineers.
+The integration and configuration model would be the most appropriate for this project, as the company has developed similar solutions and this entails that they would simply modify the code and release it with the features needed for this specific software. As the application stores data on the Cloud, it is a web service that the integration model is well-suited for. The integration model also usually delivers software quickly, which fits into the time in the bid the company took.
 
 ### #5: Reducing Traffic
 The waterfall model would be the most appropriate for this project, as the product needing to be developed is an embedded system. As the products needing to be developed are GPS systems, and general traffic technology, the cleary defined phases of the waterfall model would complement them as it is hard to modify hardware and thus needs to be developed with clear specifications and requirements in place, which the waterfall model offers. Also, the team is equipped for developing embedded system softwares, and has skills in C++, a legacy language, which will be around and has been around for years. 
