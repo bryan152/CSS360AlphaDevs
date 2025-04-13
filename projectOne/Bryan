@@ -13,24 +13,31 @@
 # Bryan Viveros
 
 ## #1: New e-Commerce site
-
+> Intergration and Configuration
+>> This model would be best since the commerce site will be utlizing already excisting tools with minor modifications. This model will also allow work well since it will be an online service.
 
 ## #2: Dental office site
-
+> Incremental Development
+>> This model is great for what is needed since it allows future updates and features to be incorporated. The developer can focus on getting the first version which includes hours, locations,and dental staff. They then can add payment functionality down the road.
 
 ## #3: Nuclear Power Plant
-
+> Waterfall Method
+>> Due to safety and realibility when working with nuclear energy, the waterfall method would be the best. By planning everything carefully and not advancing to the next step prematurely, there is less likelyhood for problem to appear. The waterfall method will make sure every step is carefully planned. From the specifications to the actual testing.
 
 ## #4: Department of Transportation
-
+> Watefall Method
+>> Even though we have experience and could finish this job within the timeframe, we should still focus on safety and reliability. By using the Waterfall method alongside our experienced team, we can ensure minimal errors. A linear approach is reccomended.
 
 ## #5: Reducing Traffic
-
+> Incremental Development
+>> Since there will be many different requirements such as using gps, sensors, or cameras, it would be best to incorporate different fucntions one at a time. this will allow the customer to track the progress and decide on the next steps.
 
 ## #6: Educational game
-
+> Agile
+>> The keyword here is "ASAP". We would focus on a fast development proccess that allows customers to get the product quickly. This would ensure at the very least, an MVP from which the customer can use. 
 
 ## #7: Global Health
-
+> Incremental Development
+>> since we are a small team but with goals of growing, we must also apply this to our work. By taking the project and adding features at the same rate we hire, it will ensure there are no slow downs due to planning. This would also allow us to show diferent versions and hope that we can impress potential grant givers.
 
 
