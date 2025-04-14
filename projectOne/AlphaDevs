@@ -17,13 +17,13 @@
 
 ## #3: Nuclear Power Plant
 1. > First Choice
->> The SDLC model we thought was most appropriate for this project is the waterfall model. We thought this model was the most appropriate because of it being a critical software and the time it needs to last (10 years). As the software would have an important role as it oversees nuclear power plants, and would thus need to be carefully implemented as to avoid safety-related problems. 
+>> The SDLC model we thought was most appropriate for this project is the waterfall model. We thought this model was the most appropriate because of it being a critical software and the time it needs to last (10 years). As the software would have an important role as it oversees nuclear power plants, and would thus need to be developed in clearly defined phases with clear specifications and requirements fulfilled before moving onto the next phase, as to avoid safety problems that are hard to correct once released. 
 2. > Secondary choices 
 >> This scenerio was a strong candidate for waterfall, gaining 4 votes and only 1 vote for a spiral method. while a spiral method could be applied, we decided that safety is the most important and therefor take one step at a time.
 
 ## #4: Department of Transportation
 1. > First Choice
->> The SDLC model we thought was most appropriate for this project is the  model. We thought this model was the most appropriate because 
+>> The SDLC model we thought was most appropriate for this project is the integration and configuration model. We thought this model was the most appropriate because the company developed similar solutions in the past and would thus be able to reuse older software elements and modify them to fit the requirements of the current application. The integration and configuration model simplifies the development and implementation process, and thus the company would be able to finish the product quickly and within the timeframe that they bid on. 
 2. > Secondary choices 
 >> this was very close between waterfall and intergration but waterfall ended up being second place. while waterfall would also work, we tought it was best that the customer see results more often and work towards adding new features.
 
@@ -35,7 +35,7 @@
 
 ## #6: Educational game
 1. > First Choice
->> The SDLC model we thought was most appropriate for this project is the extreme programming model. We thought this model was the most appropriate because 
+>> The SDLC model we thought was most appropriate for this project is the extreme programming model. We thought this model was the most appropriate because of the evolving nature of the requirements, which ties into how in extreme programming there is a lack of formal specification. As games also need to be delivered ASAP, the test-first nature of the extreme programming model would allow the development process to be quicker and thus release the games quicker as per the client's requests. 
 2. > Secondary choices 
 >> This one did not have any votes for any secondary choices. We all agreed that an agile/extreme method would work best.
 
