@@ -1,42 +1,55 @@
-AlphaDevs
+AlphaDevs  
 ##### This is a markdown template. Please make sure to update your own template to your own project file. Include/Make changes that include at least four of the following markdown features:
-* Text formatting
-* Blockquote(s)
-* External link(s)
-* Internal link(s)
-* Embedded photo(s)
-* Table(s)
+* Text formatting  
+* Blockquote(s)  
+* External link(s)  
+* Internal link(s)  
+* Embedded photo(s)  
+* Table(s)  
 * List(s)
 
-# If confused, look at: [Markdown Live Preview](https://markdownlivepreview.com/).
+> For help with markdown syntax, check [Markdown Live Preview](https://markdownlivepreview.com/).
 
 # Kirill
 
 ## #1: New e-Commerce site
---Agile
--Quick iterations and chages allow for the project to recive feedback as its built and would allow it to continously improve its featurs just as the customer wants
+**--Agile**  
+- Quick iterations and chages allow for the project to recive feedback as its built and would allow it to continously improve its featurs just as the customer wants
 
 ## #2: Dental office site 
---Incremental
--With the Detistry grtadually decidig on new features, the incrementl method would work best as we have a decet base to start offf with but the dentistry might want some diffrent features like online appointments and text reminders.
-
+**--Incremental**  
+- With the Detistry grtadually decidig on new features, the incrementl method would work best as we have a decet base to start offf with but the dentistry might want some diffrent features like online appointments and text reminders.
 
 ## #3: Nuclear Power Plant
--Waterfall
---For a project such as a powerplant we would use the waterfall method because this kind of project is well defied and well structured, as the waterfall method goes by in stages it would be crucial to complete a part of this project fully, before moving on to the next.
+**-Waterfall**  
+-  For a project such as a powerplant we would use the waterfall method because this kind of project is well defied and well structured, as the waterfall method goes by in stages it would be crucial to complete a part of this project fully, before moving on to the next.
 
 ## #4: Department of Transportation
--Waterfall
---This kind of project has fixed and detialed requirements. It has usualy  structured plan given out by the governemtn and an exact timeline when they want these things done by, fits well for the waterfall method
+**-Waterfall**  
+- This kind of project has fixed and detialed requirements. It has usualy  structured plan given out by the governemtn and an exact timeline when they want these things done by, fits well for the waterfall method
 
 ## #5: Reducing Traffic
--Incremental
--- We know most of the requirements from the beggining however there will have to be upkeep and updates with things like the gps and traffic cameras so icremental is best here.
+**-Incremental**  
+- We know most of the requirements from the beggining however there will have to be upkeep and updates with things like the gps and traffic cameras so icremental is best here.
 
 ## #6: Educational game
--Agile
---This will need to have some kind of rapid prototyping which is best for an agile method so the customer can give feedback and potentially new requirements that will be integrated quickly. 
+**-Agile**  
+- This will need to have some kind of rapid prototyping which is best for an agile method so the customer can give feedback and potentially new requirements that will be integrated quickly. 
+
 ## #7: Global Health
+**-Icremental**  
+- We know for the most part what we will need to create however the customer is likely to ask for specific requirements in the future, so the incremental model will be best here as well as the system will need regular assessment to make sure that everyones information is safe and everything is working as it should.
 
+---
 
+### Summary Table
 
+| Project                     | Model       |
+|----------------------------|-------------|
+| New e-Commerce site        | Agile       |
+| Dental office site         | Incremental |
+| Nuclear Power Plant        | Waterfall   |
+| Department of Transportation | Waterfall   |
+| Reducing Traffic           | Incremental |
+| Educational game           | Agile       |
+| Global Health              | Incremental |
