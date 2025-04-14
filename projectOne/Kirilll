@@ -1,4 +1,4 @@
-Test2kirill# AlphaDevs
+AlphaDevs
 ##### This is a markdown template. Please make sure to update your own template to your own project file. Include/Make changes that include at least four of the following markdown features:
 * Text formatting
 * Blockquote(s)
@@ -13,13 +13,17 @@ Test2kirill# AlphaDevs
 # Kirill
 
 ## #1: New e-Commerce site
+--Agile
+-Quick iterations and chages allow for the project to recive feedback as its built and would allow it to continously improve its featurs just as the customer wants
 
-
-## #2: Dental office site
+## #2: Dental office site 
+--Incremental
+-With the Detistry grtadually decidig on new features, the incrementl method would work best as we have a decet base to start offf with but the dentistry might want some diffrent features like online appointments and text reminders.
 
 
 ## #3: Nuclear Power Plant
-
+-Waterfall
+--For a project such as a powerplant we would use the waterfall method because this kind of project is well defied and well structured, as the waterfall method goes by in stages it would be crucial to complete a part of this project fully, before moving on to the next.
 
 ## #4: Department of Transportation
 
