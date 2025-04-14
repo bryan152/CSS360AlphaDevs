@@ -29,7 +29,7 @@
 
 ## #5: Reducing Traffic
 1. > First Choice
->> The SDLC model we thought was most appropriate for this project is the incremental model. We thought this model was the most appropriate because 
+>> The SDLC model we thought was most appropriate for this project is the incremental model. We thought this model was the most appropriate because the client wants to use various equipment. By focusing on one equipment incorporation at a time, we would be sure it is working before moving to the next step. This would allow us to work on sensors and cameras and then in another version, add gps capabilites.
 2. > Secondary choices 
 >> Waterfall was our second choice due to the "straight-forwardness" when it comes to planning this project but it might have taken longer that incremental.
 
@@ -41,7 +41,7 @@
 
 ## #7: Global Health
 1. > First Choice
->> The SDLC model we thought was most appropriate for this project is the incremental model. We thought this model was the most appropriate because 
+>> The SDLC model we thought was most appropriate for this project is the incremental model. We thought this model was the most appropriate because it would allow us to show progress with each iteration. Due to the fact that we could get extra grants, this would allow us to produce fast result but still maintain proper procedures ensuring accuracy and safety. We could have gone with a slower waterfall or faster agile but we feel that incremental is the best of both worlds.
 2. > Secondary choices 
 >> Waterall was our second choice. the argument for this was due to the importance around acurracy. By making sure each step is correct before moving on, this accuracy would be achieved.
 
